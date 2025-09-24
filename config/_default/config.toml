@@ -1,18 +1,34 @@
 # Change baseurl before deploy
-baseurl = "https://demo.stack.jimmycai.com"
-languageCode = "en-us"
-title = "Hugo Theme Stack Starter"
-
-# Theme i18n support
-# Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
+baseURL = "https://dingyizhao.github.io/"  # 以后部署到 GitHub Pages 用
+title = "Dingyi Zhao"
 defaultContentLanguage = "en"
 
-# Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
-# This will make .Summary and .WordCount behave correctly for CJK languages.
-hasCJKLanguage = false
 
-# Change it to your Disqus shortname before using
-disqusShortname = "hugo-theme-stack"
+[params.sidebar]
+  subtitle = "Astrophysics · Galaxy–Halo Connection; Galaxy Evolution; Cosmology; AI for Astrophysics"
+  [params.sidebar.avatar]
+    enabled = true
+    local = true
+    src = "img/avatar.jpg"
 
-[pagination]
-pagerSize = 5
+[menu]
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 10
+  [[menu.main]]
+    name = "Publications"
+    url = "/publication/"
+    weight = 20
+  [[menu.main]]
+    name = "Projects"
+    url = "/project/"
+    weight = 30
+  [[menu.main]]
+    name = "Talks"
+    url = "/talk/"
+    weight = 40
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 50
