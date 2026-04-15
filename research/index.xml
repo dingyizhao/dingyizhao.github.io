@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Research on Dingyi Zhao</title><link>https://dingyizhao.github.io/research/</link><description>Recent content in Research on Dingyi Zhao</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 12 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dingyizhao.github.io/research/index.xml" rel="self" type="application/rss+xml"/><item><title>Inferring Resolved Kinematics from Multi-Band Imaging</title><link>https://dingyizhao.github.io/research/inferring-kinematics-from-imaging/</link><pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate><guid>https://dingyizhao.github.io/research/inferring-kinematics-from-imaging/</guid><description>&lt;p&gt;This direction develops computer-vision models that map imaging data to
+resolved physical fields.&lt;/p&gt;
+&lt;h2 id="focus"&gt;Focus
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Generative modeling for kinematic reconstruction.&lt;/li&gt;
+&lt;li&gt;End-to-end training with simulation-informed supervision.&lt;/li&gt;
+&lt;li&gt;Evaluation of physical consistency and uncertainty.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="outcome"&gt;Outcome
+&lt;/h2&gt;&lt;p&gt;The method aims to make kinematic information accessible at scale for surveys
+without IFU-level spectroscopy.&lt;/p&gt;</description></item><item><title>Halo Mass as a Driver of Central Galaxy Quenching</title><link>https://dingyizhao.github.io/research/halo-mass-and-central-quenching/</link><pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate><guid>https://dingyizhao.github.io/research/halo-mass-and-central-quenching/</guid><description>&lt;p&gt;This project investigates how halo-scale processes regulate star formation
+shutdown in central galaxies.&lt;/p&gt;
+&lt;h2 id="focus"&gt;Focus
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Compare halo mass against stellar mass and structural indicators.&lt;/li&gt;
+&lt;li&gt;Build controlled samples to separate confounding effects.&lt;/li&gt;
+&lt;li&gt;Quantify quenching trends across mass and environment bins.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="outcome"&gt;Outcome
+&lt;/h2&gt;&lt;p&gt;Results support the interpretation that halo mass plays a dominant role in
+central-galaxy quenching.&lt;/p&gt;</description></item><item><title>Machine Learning for Halo Mass Estimation</title><link>https://dingyizhao.github.io/research/halo-mass-estimation/</link><pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate><guid>https://dingyizhao.github.io/research/halo-mass-estimation/</guid><description>&lt;p&gt;This line of work focuses on robust halo mass estimation for large galaxy group
+catalogs, with an emphasis on reducing systematic bias and improving precision.&lt;/p&gt;
+&lt;h2 id="focus"&gt;Focus
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Feature design from group observables.&lt;/li&gt;
+&lt;li&gt;Model comparison across tree-based and neural methods.&lt;/li&gt;
+&lt;li&gt;Validation against simulations and observed scaling relations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="outcome"&gt;Outcome
+&lt;/h2&gt;&lt;p&gt;The framework supports more reliable halo-based studies of quenching,
+environment, and mass assembly history.&lt;/p&gt;</description></item></channel></rss>

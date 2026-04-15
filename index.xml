@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Curriculum Vitae on Dingyi Zhao</title><link>https://dingyizhao.github.io/</link><description>Recent content in Curriculum Vitae on Dingyi Zhao</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 24 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dingyizhao.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>The Return of the King: Halo Mass Dominates Central Galaxy Quenching</title><link>https://dingyizhao.github.io/publication/return-of-the-king/</link><pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate><guid>https://dingyizhao.github.io/publication/return-of-the-king/</guid><description>&lt;h2 id="abstract"&gt;Abstract
+&lt;/h2&gt;&lt;p&gt;We investigate the dominant physical drivers of quenching in central galaxies and
+find that halo mass is the strongest controlling factor across a broad range of
+stellar masses and environments.&lt;/p&gt;
+&lt;h2 id="publication-details"&gt;Publication Details
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Authors: Dingyi Zhao, Yingjie Peng, et al.&lt;/li&gt;
+&lt;li&gt;Venue: Nature (manuscript in preparation).&lt;/li&gt;
+&lt;li&gt;Preprint: arXiv:2509.01234.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="notes"&gt;Notes
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Status: manuscript in preparation.&lt;/li&gt;
+&lt;li&gt;Preprint: arXiv:2509.01234.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Diffusion Model for Kinematics Generation</title><link>https://dingyizhao.github.io/project/diffusion-kinematics-generator/</link><pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate><guid>https://dingyizhao.github.io/project/diffusion-kinematics-generator/</guid><description>&lt;h2 id="what-it-does"&gt;What It Does
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Learns image-to-physics mappings using diffusion models.&lt;/li&gt;
+&lt;li&gt;Generates velocity and mass-distribution fields.&lt;/li&gt;
+&lt;li&gt;Supports uncertainty-aware inference.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="why-it-matters"&gt;Why It Matters
+&lt;/h2&gt;&lt;p&gt;This project extends modern generative AI to an astrophysical inverse problem
+with direct scientific utility.&lt;/p&gt;</description></item><item><title>Inferring Resolved Kinematics from Multi-Band Imaging</title><link>https://dingyizhao.github.io/research/inferring-kinematics-from-imaging/</link><pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate><guid>https://dingyizhao.github.io/research/inferring-kinematics-from-imaging/</guid><description>&lt;p&gt;This direction develops computer-vision models that map imaging data to
+resolved physical fields.&lt;/p&gt;
+&lt;h2 id="focus"&gt;Focus
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Generative modeling for kinematic reconstruction.&lt;/li&gt;
+&lt;li&gt;End-to-end training with simulation-informed supervision.&lt;/li&gt;
+&lt;li&gt;Evaluation of physical consistency and uncertainty.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="outcome"&gt;Outcome
+&lt;/h2&gt;&lt;p&gt;The method aims to make kinematic information accessible at scale for surveys
+without IFU-level spectroscopy.&lt;/p&gt;</description></item><item><title>One-Halo Galactic Conformity Reanalysis</title><link>https://dingyizhao.github.io/project/one-halo-conformity-reanalysis/</link><pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate><guid>https://dingyizhao.github.io/project/one-halo-conformity-reanalysis/</guid><description>&lt;h2 id="what-it-does"&gt;What It Does
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Reconstructs conformity measurements with updated halo-mass estimates.&lt;/li&gt;
+&lt;li&gt;Applies strict controls for mass and environment.&lt;/li&gt;
+&lt;li&gt;Tests robustness across subsamples and model choices.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="why-it-matters"&gt;Why It Matters
+&lt;/h2&gt;&lt;p&gt;A cleaner measurement clarifies whether conformity reflects halo-driven
+processes or sample-selection effects.&lt;/p&gt;</description></item><item><title>Revisiting One-Halo Galactic Conformity in the Local Universe</title><link>https://dingyizhao.github.io/publication/revisiting-one-halo-galactic-conformity/</link><pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate><guid>https://dingyizhao.github.io/publication/revisiting-one-halo-galactic-conformity/</guid><description>&lt;p&gt;This project revisits one-halo conformity with improved halo mass estimation and
+controlled sample construction to reassess the signal strength and interpretation.&lt;/p&gt;</description></item><item><title>Halo Mass as a Driver of Central Galaxy Quenching</title><link>https://dingyizhao.github.io/research/halo-mass-and-central-quenching/</link><pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate><guid>https://dingyizhao.github.io/research/halo-mass-and-central-quenching/</guid><description>&lt;p&gt;This project investigates how halo-scale processes regulate star formation
+shutdown in central galaxies.&lt;/p&gt;
+&lt;h2 id="focus"&gt;Focus
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Compare halo mass against stellar mass and structural indicators.&lt;/li&gt;
+&lt;li&gt;Build controlled samples to separate confounding effects.&lt;/li&gt;
+&lt;li&gt;Quantify quenching trends across mass and environment bins.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="outcome"&gt;Outcome
+&lt;/h2&gt;&lt;p&gt;Results support the interpretation that halo mass plays a dominant role in
+central-galaxy quenching.&lt;/p&gt;</description></item><item><title>Generating Resolved Kinematics and Mass Distribution from Multi-Band Imaging</title><link>https://dingyizhao.github.io/publication/generating-resolved-kinematics-and-mass/</link><pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate><guid>https://dingyizhao.github.io/publication/generating-resolved-kinematics-and-mass/</guid><description>&lt;p&gt;This work proposes a generative modeling approach to infer resolved kinematic
+and mass-distribution information directly from multi-band imaging data.&lt;/p&gt;</description></item><item><title>SDSS Halo Mass Pipeline</title><link>https://dingyizhao.github.io/project/sdss-halo-mass-pipeline/</link><pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate><guid>https://dingyizhao.github.io/project/sdss-halo-mass-pipeline/</guid><description>&lt;h2 id="what-it-does"&gt;What It Does
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Ingests SDSS group-level observables.&lt;/li&gt;
+&lt;li&gt;Trains and evaluates halo-mass estimators.&lt;/li&gt;
+&lt;li&gt;Produces calibrated predictions and diagnostics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="why-it-matters"&gt;Why It Matters
+&lt;/h2&gt;&lt;p&gt;The pipeline provides a stable foundation for group catalog analysis and
+downstream studies on quenching and environment.&lt;/p&gt;</description></item><item><title>Machine Learning for Halo Mass Estimation</title><link>https://dingyizhao.github.io/research/halo-mass-estimation/</link><pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate><guid>https://dingyizhao.github.io/research/halo-mass-estimation/</guid><description>&lt;p&gt;This line of work focuses on robust halo mass estimation for large galaxy group
+catalogs, with an emphasis on reducing systematic bias and improving precision.&lt;/p&gt;
+&lt;h2 id="focus"&gt;Focus
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Feature design from group observables.&lt;/li&gt;
+&lt;li&gt;Model comparison across tree-based and neural methods.&lt;/li&gt;
+&lt;li&gt;Validation against simulations and observed scaling relations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="outcome"&gt;Outcome
+&lt;/h2&gt;&lt;p&gt;The framework supports more reliable halo-based studies of quenching,
+environment, and mass assembly history.&lt;/p&gt;</description></item><item><title>From Halos to Galaxies VI: Improved Halo Mass Estimation for SDSS Groups</title><link>https://dingyizhao.github.io/publication/from-halos-to-galaxies-vi/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://dingyizhao.github.io/publication/from-halos-to-galaxies-vi/</guid><description>&lt;p&gt;This paper presents an improved framework for halo mass estimation in SDSS
+galaxy groups and provides updated constraints on the halo mass function.&lt;/p&gt;</description></item><item><title>From Easy to Difficult: Inferring Halo Mass and Stellar Kinematics</title><link>https://dingyizhao.github.io/talk/csst-key-questions-2024/</link><pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate><guid>https://dingyizhao.github.io/talk/csst-key-questions-2024/</guid><description>&lt;h2 id="event"&gt;Event
+&lt;/h2&gt;&lt;p&gt;Conference for Key Questions in CSST Galaxy Science Research, Guilin, China.&lt;/p&gt;
+&lt;h2 id="talk-summary"&gt;Talk Summary
+&lt;/h2&gt;&lt;p&gt;Presented a progression from group-level properties to imaging-based inference
+for halo mass and stellar kinematics.&lt;/p&gt;</description></item><item><title>Accurate Estimation of Dark Matter Halo Mass</title><link>https://dingyizhao.github.io/talk/nju-innovation-competition-2023/</link><pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate><guid>https://dingyizhao.github.io/talk/nju-innovation-competition-2023/</guid><description>&lt;h2 id="event"&gt;Event
+&lt;/h2&gt;&lt;p&gt;Graduate Research Innovation Practice Competition, School of Astronomy and
+Space Sciences, Nanjing University.&lt;/p&gt;
+&lt;h2 id="talk-summary"&gt;Talk Summary
+&lt;/h2&gt;&lt;p&gt;Shared methodology and validation strategy for high-accuracy halo mass
+estimation in galaxy group datasets.&lt;/p&gt;</description></item><item><title>Galaxy-Halo Connection in Simulation</title><link>https://dingyizhao.github.io/talk/csst-discussion-dec-2022/</link><pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate><guid>https://dingyizhao.github.io/talk/csst-discussion-dec-2022/</guid><description>&lt;h2 id="event"&gt;Event
+&lt;/h2&gt;&lt;p&gt;CSST AGN and Galaxy Discussion, Peking University.&lt;/p&gt;
+&lt;h2 id="talk-summary"&gt;Talk Summary
+&lt;/h2&gt;&lt;p&gt;Reviewed simulation-based evidence for galaxy-halo coupling and discussed
+implications for observational inference.&lt;/p&gt;</description></item><item><title>Methods to Measure Dark Matter Halo Mass</title><link>https://dingyizhao.github.io/talk/csst-discussion-jun-2022/</link><pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate><guid>https://dingyizhao.github.io/talk/csst-discussion-jun-2022/</guid><description>&lt;h2 id="event"&gt;Event
+&lt;/h2&gt;&lt;p&gt;CSST AGN and Galaxy Discussion, Peking University.&lt;/p&gt;
+&lt;h2 id="talk-summary"&gt;Talk Summary
+&lt;/h2&gt;&lt;p&gt;Introduced practical approaches to halo mass measurement and compared their
+assumptions, strengths, and limitations.&lt;/p&gt;</description></item></channel></rss>
