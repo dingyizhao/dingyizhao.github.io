@@ -3,14 +3,6 @@ baseURL = "https://dingyizhao.github.io/"  # 以后部署到 GitHub Pages 用
 title = "Dingyi Zhao"
 defaultContentLanguage = "en"
 
-
-[params.sidebar]
-  subtitle = "Astrophysics · Galaxy–Halo Connection; Galaxy Evolution; Cosmology; AI for Astrophysics"
-  [params.sidebar.avatar]
-    enabled = true
-    local = true
-    src = "img/avatar.jpg"
-
 [menu]
   [[menu.main]]
     name = "Research"
@@ -28,7 +20,3 @@ defaultContentLanguage = "en"
     name = "Talks"
     url = "/talk/"
     weight = 40
-  [[menu.main]]
-    name = "Blog"
-    url = "/posts/"
-    weight = 50
