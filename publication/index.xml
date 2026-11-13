@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publications on Dingyi Zhao</title><link>https://dingyizhao.github.io/publication/</link><description>Recent content in Publications on Dingyi Zhao</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 27 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dingyizhao.github.io/publication/index.xml" rel="self" type="application/rss+xml"/><item><title>Generating Resolved Kinematics and Mass Distribution from Multi-Band Imaging</title><link>https://dingyizhao.github.io/publication/generating-resolved-kinematics-and-mass/</link><pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate><guid>https://dingyizhao.github.io/publication/generating-resolved-kinematics-and-mass/</guid><description>&lt;p&gt;This work proposes a generative modeling approach to infer resolved kinematic
+and mass-distribution information directly from multi-band imaging data.&lt;/p&gt;</description></item><item><title>From Halos to Galaxies XII: Halo Mass as the Stronger Correlate of Central-Galaxy Quenching with Halo-Mass Estimates Consistent with Weak-Lensing Constraints</title><link>https://dingyizhao.github.io/publication/from-halos-to-galaxies-xii/</link><pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate><guid>https://dingyizhao.github.io/publication/from-halos-to-galaxies-xii/</guid><description>&lt;h2 id="abstract"&gt;Abstract
+&lt;/h2&gt;&lt;p&gt;This work reassesses the relative roles of halo mass and central-region
+properties in central-galaxy quenching using halo-mass estimates whose
+stellar-to-halo mass relations are consistent with independent weak-lensing
+measurements. With these estimates, halo mass becomes the stronger correlate of
+quenching, whereas conventional abundance-matching halo masses recover the
+previously reported stronger dependence on central velocity dispersion.&lt;/p&gt;
+&lt;h2 id="publication-details"&gt;Publication Details
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Authors: Dingyi Zhao, Yingjie Peng&lt;/li&gt;
+&lt;li&gt;Venue: The Astrophysical Journal (submitted).&lt;/li&gt;
+&lt;li&gt;Status: manuscript submitted; twelfth paper in the From Halos to Galaxies series.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>No Detectable One-halo Galactic Conformity Signal with Halo-mass Estimates Consistent with Weak-lensing Constraints</title><link>https://dingyizhao.github.io/publication/no-detectable-one-halo-conformity/</link><pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate><guid>https://dingyizhao.github.io/publication/no-detectable-one-halo-conformity/</guid><description>&lt;h2 id="abstract"&gt;Abstract
+&lt;/h2&gt;&lt;p&gt;Using three halo-mass estimates for SDSS galaxy groups, this Letter shows that
+the strong one-halo galactic conformity signal obtained with conventional
+abundance-matching halo masses is not reproduced with machine-learning halo
+masses consistent with independent weak-lensing constraints, suggesting that the
+earlier signal was largely driven by halo-mass estimation biases.&lt;/p&gt;
+&lt;h2 id="publication-details"&gt;Publication Details
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Authors: Dingyi Zhao, Yingjie Peng, et al.&lt;/li&gt;
+&lt;li&gt;Venue: The Astrophysical Journal Letters, 1009, L7 (2026).&lt;/li&gt;
+&lt;li&gt;Status: published; seventeenth paper in the From Halos to Galaxies series.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>From Halos to Galaxies VI: Improved Halo Mass Estimation for SDSS Groups</title><link>https://dingyizhao.github.io/publication/from-halos-to-galaxies-vi/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://dingyizhao.github.io/publication/from-halos-to-galaxies-vi/</guid><description>&lt;p&gt;This paper presents an improved framework for halo mass estimation in SDSS
+galaxy groups and provides updated constraints on the halo mass function.&lt;/p&gt;</description></item></channel></rss>

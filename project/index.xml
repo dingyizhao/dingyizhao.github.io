@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on Dingyi Zhao</title><link>https://dingyizhao.github.io/project/</link><description>Recent content in Projects on Dingyi Zhao</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 05 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dingyizhao.github.io/project/index.xml" rel="self" type="application/rss+xml"/><item><title>Diffusion Model for Kinematics Generation</title><link>https://dingyizhao.github.io/project/diffusion-kinematics-generator/</link><pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate><guid>https://dingyizhao.github.io/project/diffusion-kinematics-generator/</guid><description>&lt;h2 id="what-it-does"&gt;What It Does
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Learns image-to-physics mappings using diffusion models.&lt;/li&gt;
+&lt;li&gt;Generates velocity and mass-distribution fields.&lt;/li&gt;
+&lt;li&gt;Supports uncertainty-aware inference.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="why-it-matters"&gt;Why It Matters
+&lt;/h2&gt;&lt;p&gt;This project extends modern generative AI to an astrophysical inverse problem
+with direct scientific utility.&lt;/p&gt;</description></item><item><title>One-Halo Galactic Conformity Reanalysis</title><link>https://dingyizhao.github.io/project/one-halo-conformity-reanalysis/</link><pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate><guid>https://dingyizhao.github.io/project/one-halo-conformity-reanalysis/</guid><description>&lt;h2 id="what-it-does"&gt;What It Does
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Reconstructs conformity measurements with updated halo-mass estimates.&lt;/li&gt;
+&lt;li&gt;Applies strict controls for mass and environment.&lt;/li&gt;
+&lt;li&gt;Tests robustness across subsamples and model choices.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="why-it-matters"&gt;Why It Matters
+&lt;/h2&gt;&lt;p&gt;A cleaner measurement clarifies whether conformity reflects halo-driven
+processes or sample-selection effects.&lt;/p&gt;</description></item><item><title>SDSS Halo Mass Pipeline</title><link>https://dingyizhao.github.io/project/sdss-halo-mass-pipeline/</link><pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate><guid>https://dingyizhao.github.io/project/sdss-halo-mass-pipeline/</guid><description>&lt;h2 id="what-it-does"&gt;What It Does
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Ingests SDSS group-level observables.&lt;/li&gt;
+&lt;li&gt;Trains and evaluates halo-mass estimators.&lt;/li&gt;
+&lt;li&gt;Produces calibrated predictions and diagnostics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="why-it-matters"&gt;Why It Matters
+&lt;/h2&gt;&lt;p&gt;The pipeline provides a stable foundation for group catalog analysis and
+downstream studies on quenching and environment.&lt;/p&gt;</description></item></channel></rss>
