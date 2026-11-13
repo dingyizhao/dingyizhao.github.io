@@ -1,6 +1,6 @@
 ---
 title: "Curriculum Vitae"
-description: "Dingyi Zhao - Ph.D. Candidate in Astronomy at Peking University."
+description: "Dingyi Zhao - Postdoctoral Researcher at KIAA, Peking University."
 draft: false
 readingTime: false
 comments: false
@@ -10,13 +10,15 @@ comments: false
 
 ## Contact
 - Name: Dingyi Zhao
-- Affiliation: Department of Astronomy, Peking University
+- Affiliation: Kavli Institute for Astronomy and Astrophysics, Peking University
 - Address: 5 Yiheyuan Road, Haidian District, Beijing, China (100871)
 - Email: zhaodingyi@pku.edu.cn
 - Website: dingyizhao.github.io
 
-## Education
-- Peking University, Ph.D. Candidate, Department of Astronomy (September 2019 - Present)
+## Education and Positions
+- Peking University, Postdoctoral Researcher, Kavli Institute for Astronomy and Astrophysics (July 2025 - Present)
+  Advisor: Prof. Yingjie Peng
+- Peking University, Ph.D., Department of Astronomy (September 2019 - July 2025)
   Advisor: Prof. Yingjie Peng
 - Peking University, B.S., School of Physics (September 2015 - June 2019)
   Advisor: Dr. Jing Wang
@@ -37,9 +39,16 @@ comments: false
 - Mar 2021 - Aug 2021: Co-organizer, CSST AGN and Galaxy Discussion (weekly), Peking University
 - Feb 2021 - Jun 2021: Teaching Assistant, Basics for Physical Cosmology, Peking University
 - Feb 2022 - Jun 2022: Teaching Assistant, Basics for Physical Cosmology, Peking University
-- Jul 2022 - Present: Co-supervising Manjia Chen (undergraduate student), Peking University
+- Jul 2022 - Dec 2022: Co-supervising Manjia Chen (undergraduate student), Peking University
+- Sep 2025 - Jan 2026: Substitute Lecturer, Basics for Physical Cosmology, Peking University; supervised students' machine-learning course project
+- Summer 2026: Co-supervising Bobby Xia
+- Sep 2026 - Present: Substitute Lecturer, Basics for Physical Cosmology, Peking University; supervised students' machine-learning course project
 
 ## Talks
+- Oct 2026, Dynamic Cosmic Structures 2026 (Hangzhou, China)
+  "Revisiting Galaxy Quenching with Halo-Mass Estimates Consistent with Weak-Lensing Constraints"
+- Nov 2025, CSST Early Science Discussion Meeting (Zhuhai, China)
+  "AI Reconstruction of Galaxy Kinematics Driven by Wide-Field Survey Imaging"
 - May 2024, Conference for Key Questions in CSST Galaxy Science Research (Guilin, China)
   "From easy to difficult: Use galaxy group properties/images to infer dark matter halo mass/stellar kinematics"
 - Nov 2023, Graduate Research Innovation Practice Competition, School of Astronomy and Space Sciences, Nanjing University (Nanjing, China)
@@ -51,17 +60,21 @@ comments: false
 
 ## Publications
 ### First-Authored
+- Zhao, D., Peng, Y., et al., 2026, ApJL, 1009, L7.
+  No Detectable One-halo Galactic Conformity Signal with Halo-mass Estimates Consistent with Weak-lensing Constraints.
+  [ADS](https://ui.adsabs.harvard.edu/abs/2026ApJ..1009L...7Z/abstract)
 - Zhao, D., Peng, Y., et al., 2025, ApJ, 979, 42.
   From Halos to Galaxies. VI. Improved halo mass estimation for SDSS groups and measurement of the halo mass function.
   [ADS](https://ui.adsabs.harvard.edu/abs/2025ApJ...979...42Z/abstract)
 - Zhao, D., Gao, X., Peng, Y.
-  Generating resolved kinematics and mass distribution from multi-band imaging. Submitted to Nature Astronomy.
+  Generating Resolved Kinematics and Mass Distribution from Multi-band Imaging. Submitted to ApJL.
 - Zhao, D., Peng, Y.
-  The Return of the King: the dominant role of halo mass in quenching central galaxies. To be submitted.
-- Zhao, D., Peng, Y., et al.
-  Revisiting one-halo galactic conformity in the local universe using improved halo mass estimation. In preparation.
+  From Halos to Galaxies XII: Halo Mass as the Stronger Correlate of Central-Galaxy Quenching with Halo-Mass Estimates Consistent with Weak-Lensing Constraints. Submitted to ApJ.
 
 ### Co-Authored
+- Zhao, K., Peng, Y., ..., Zhao, D., et al., 2026, ApJL, 1010, L17.
+  Reconstructing the Projected Dark Matter Field across 0.1-100 Mpc Scales from the SDSS Survey.
+  [ADS](https://ui.adsabs.harvard.edu/abs/2026ApJ..1010L..17Z/abstract)
 - Dou, J., Peng, Y., ..., Zhao, D., et al., 2025, ApJL, 982, L12.
   The Critical Role of Dark Matter Halos in Driving Star Formation.
   [ADS](https://ui.adsabs.harvard.edu/abs/2025ApJ...982L..12D/abstract)

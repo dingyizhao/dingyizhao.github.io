@@ -1,7 +1,7 @@
 ---
 title: "Generating Resolved Kinematics and Mass Distribution from Multi-Band Imaging"
-description: "Zhao, Gao, Peng. Manuscript submitted to Nature Astronomy."
-date: 2025-02-01
+description: "Zhao, Gao, Peng. Manuscript submitted to ApJL."
+date: 2026-10-27
 draft: false
 comments: false
 readingTime: false
@@ -9,7 +9,7 @@ authors:
   - "Dingyi Zhao"
   - "Xiang Gao"
   - "Yingjie Peng"
-venue: "Nature Astronomy"
+venue: "The Astrophysical Journal Letters (submitted)"
 status: "Submitted"
 ---
 
